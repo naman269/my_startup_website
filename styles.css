@@ -1,0 +1,117 @@
+#title{
+  background-color: #012140;
+}
+h1{
+  font-family: 'IBM Plex Serif', serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.ttext{
+  font-family: 'IBM Plex Serif', serif;
+  color: white;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+.container-fluid{
+  padding: 3% 15%;
+}
+.navbar-brand{
+ font-family: 'Krona One', sans-serif;
+ font-size: 2.5rem;
+ font-weight: bold;
+}
+.navbar{
+  padding:0 0 4.5rem;
+}
+.dwnbtn{
+  margin: 5% 3%;
+}
+#features{
+  padding: 7% 15%;
+}
+.fbox{
+  text-align: center;
+  padding: 5%;
+}
+ion-icon {
+  font-size: 64px;
+}
+ion-icon:hover{
+  color: #035aa6;
+}
+#testimonials{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #012140;
+}
+em{
+  color: white;
+}
+.testimage{
+  width: 10%;
+  border-radius: 100%;
+}
+#press{
+background-color: #012140;
+  text-align: center;
+  padding-bottom: 3%;
+}
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+/* CTA Section */
+
+
+/* Footer Section */
+
+
+.social-icon {
+  margin: 20px 10px;
+}
+
+@media (max-width: 1028px) {
+
+h1{
+  font-size: 2rem;
+}
+  #title {
+    text-align: center;
+  }
+
+  .img {
+    position: static;
+    width: 50%;
+  }
+  .ttext{
+    font-size: 1.5rem;
+  }
+}
+.white-section{
+  background-color: white;
+  text-align: center;
+  margin: auto;
+}
+.pima{
+  width: 15%;
+}
+.big-heading{
+  color: white;
+}
+.colored-section{
+  background-color:#012140;
+  text-align: center;
+}
+#footer{
+  text-align: center;
+}
